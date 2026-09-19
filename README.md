@@ -23,69 +23,21 @@ I hold an Advanced Diploma in Business Analysis with Distinction from Rhodes Uni
 
 My interests sit at the intersection of:
 
-Business Analysis
-
-Data Analysis
-
-Information Systems
-
-Process Improvement
-
-Technology
-
-Project Management
-
-Digital Transformation
+Business Analysis, Data Analysis, Information Systems, Process Improvement, Technology, Project Management, and Digital Transformation
 
 **🛠️ Skills & Tools**
 
 **Business Analysis**
 
-Requirements Analysis
-
-Stakeholder Analysis
-
-Process Mapping
-
-AS-IS / TO-BE Analysis
-
-Gap Analysis
-
-User Stories
-
-Acceptance Criteria
-
-Business Process Improvement
+Requirements Analysis, Stakeholder Analysis, Process Mapping, AS-IS / TO-BE Analysis, Gap Analysis, User Stories, Acceptance Criteria, and Business Process Improvement
 
 **Data & Technology**
 
-AI Python
-
-Pandas
-
-SQL
-
-Excel
-
-Data Analysis
-
-CRM Systems
-
-Information Systems
+AI Python, Pandas, SQL, Excel, Data Analysis, CRM Systems, and Information Systems
 
 **Project & Collaboration**
 
-Jira
-
-Microsoft Project
-
-SharePoint
-
-Microsoft Visio
-
-Project Documentation
-
-Stakeholder Communication
+Jira, Microsoft Project, SharePoint, Microsoft Visio, Project Documentation, Stakeholder Communication
 
 📂 **Featured Projects**
 
