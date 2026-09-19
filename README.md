@@ -15,7 +15,7 @@ H are some ideas to get you started:
 - ⚡ Fun fact: ...ere
 -->
 
-Business Analyst | Data & Technology | Process Improvement
+Business Analyst | Data & Technology | Process Improvement | Software Testing
 
 I am a Business Analysis graduate with a background in engineering, project environments and operational coordination, currently expanding my capabilities in enterprise management, information systems, data and technology.
 
