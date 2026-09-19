@@ -24,12 +24,19 @@ I hold an Advanced Diploma in Business Analysis with Distinction from Rhodes Uni
 My interests sit at the intersection of:
 
 Business Analysis
+
 Data Analysis
+
 Information Systems
+
 Process Improvement
+
 Technology
+
 Project Management
+
 Digital Transformation
+
 🛠️ Skills & Tools
 
 Business Analysis
